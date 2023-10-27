@@ -1,0 +1,42 @@
+C:\Users\ibodu\source\repos\Snake\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\ibodu\source\repos\Snake\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\ibodu\source\repos\Snake\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\ibodu\source\repos\Snake\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\ibodu\source\repos\Snake\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\App.baml
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.g.resources
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+C:\Users\ibodu\source\repos\Snake\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.cache
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake_MarkupCompile.lref
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\App.baml
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.g.resources
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
+C:\Users\ibodu\OneDrive\Рабочий стол\SnakeGame\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
